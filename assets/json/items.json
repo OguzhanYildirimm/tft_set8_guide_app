@@ -1,0 +1,793 @@
+[
+  {
+    "id": 1,
+    "name": "B.F. Sword",
+    "description": "Gain +10% Attack Damage.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 2,
+    "name": "Recurve Bow",
+    "description": "Gain +10% Attack Speed.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 3,
+    "name": "Needlessly Large Rod",
+    "description": "Gain +10 Ability Power.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 4,
+    "name": "Tear of the Goddess",
+    "description": "Gain +15 Mana.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 5,
+    "name": "Chain Vest",
+    "description": "Gain +20 Armor.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 6,
+    "name": "Negatron Cloak",
+    "description": "Gain +20 Magic Resist",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 7,
+    "name": "Giant's Belt",
+    "description": "Gain +150 Health.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 8,
+    "name": "Spatula",
+    "description": "It must do something...",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 9,
+    "name": "Sparring Gloves",
+    "description": "Gain +20% Critical Strike Chance.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 11,
+    "name": "Anima Visage",
+    "description": "The wearer regenerates 4% of their maximum health each second.",
+    "isUnique": true,
+    "isShadow": false
+  },
+  {
+    "id": 12,
+    "name": "Death's Defiance",
+    "description": "50% of the damage the holder receives is instead dealt over 4 seconds as non-lethal damage. The holder's Attacks and Abilities also heal for 20% of damage dealt.",
+    "isUnique": true,
+    "isShadow": false
+  },
+  {
+    "id": 13,
+    "name": "Eternal Winter",
+    "description": "Enemies who damage the holder have their Attack Speed slowed by 20% for 1.5 seconds. After being slowed this way 7 times, the attacker is Frozen for the duration instead. An enemy can only be Frozen once every 15 seconds.",
+    "isUnique": true,
+    "isShadow": false
+  },
+  {
+    "id": 14,
+    "name": "Infinity Force",
+    "description": "Attack Damage +25%, Attack Speed +25%, Ability Power +25, Armor +25, Magic Resist +25, Health +25.",
+    "isUnique": true,
+    "isShadow": false
+  },
+  {
+    "id": 15,
+    "name": "Manazane",
+    "description": "After the wearer casts their spell for the first time each combat, they restore 150 mana over 5 seconds.",
+    "isUnique": true,
+    "isShadow": false
+  },
+  {
+    "id": 16,
+    "name": "Obsidian Cleaver",
+    "description": "The wearer's basic attacks and spell damage shred enemy armor and magic resistance by 50% for 4 seconds.",
+    "isUnique": true,
+    "isShadow": false
+  },
+  {
+    "id": 17,
+    "name": "Randuin's Sanctum",
+    "description": "At the start of combat, all allies adjacent to the wearer gain 50 bonus armor and 50 bonus magic resistance for the rest of combat.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 18,
+    "name": "Rocket-Propelled Fist",
+    "description": "At the start of combat, the wearer Airborne pulls the farthest enemy into melee range, Stun stunning them for 1.5 seconds. Allies within range will prioritize attacking that enemy. (Always targets a different unit than Blitzcrank)",
+    "isUnique": true,
+    "isShadow": false
+  },
+  {
+    "id": 19,
+    "name": "Gold Collector",
+    "description": "The wearer executes enemies below 12% health on-hit. Executions generate 1 gold 40% of the time.",
+    "isUnique": true,
+    "isShadow": false
+  },
+  {
+    "id": 22,
+    "name": "Zhonya's Paradox",
+    "description": "Once per combat: At 40% Health, become invulnerable for 3 seconds.",
+    "isUnique": true,
+    "isShadow": false
+  },
+  {
+    "id": 23,
+    "name": "Urf-Angel's Staff",
+    "description": "Now grants the wearer 30 ability power every 4 seconds.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 24,
+    "name": "Blessed Bloodthirster",
+    "description": "Damage heals the holder for 35% of the damage dealt. Upon falling below 40% Health, the holder gains a 35% max Health shield that lasts up to 5 seconds. Radiant Bonus: +20 Attack Damage",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 25,
+    "name": "Blue Blessing",
+    "description": "Grant 20 bouns starting Mana. After casting an Ability, set Mana to 30. Radiant Bonus: +10 Ability Power",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 26,
+    "name": "Rosethorn Vest",
+    "description": "Negates bonus damage from incoming critical strikes. On being hit by an attack, deal 125/175/225★ magic damage to all nearby enemies (once every 2.5 seconds).",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 27,
+    "name": "Chalice of Charity",
+    "description": "When combat begins, the holder and all allies within 1 hex in the same row gain 50 Ability Power and 10% Omnivamp for the rest of combat.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 28,
+    "name": "Luminous Deathblade",
+    "description": "Grant 40/70/100★ bonus Attack Damage.",
+    "isUnique": true,
+    "isShadow": false
+  },
+  {
+    "id": 29,
+    "name": "Dragon's Will",
+    "description": "Grants 180 bonus Magic Resist (including components). Every 1.5 seconds, regenerate 2.5% maximum Health for each enemy targeting the holder. If the holder is a Dragon, increase all bonuses and effects by 20%.",
+    "isUnique": true,
+    "isShadow": false
+  },
+  {
+    "id": 33,
+    "name": "Bulwark's Oath",
+    "description": "Once per combat: At 50% Health, allies within 8 hexes gain a 20% maximum Health shield that lasts up to 3 seconds. Shielded allies gain 30 Armor and Magic Resist for the rest of combat.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 34,
+    "name": "Dvarapala Stoneplate",
+    "description": "Each time the holder casts their Ability, they gain Ability Power equal to a percentage of their maximum Mana (this bonus applies to that Ability cast). Radiant Bonus: Regenerate 2% max Health per second.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 35,
+    "name": "Demon Slayer",
+    "description": "The holder's Abilities and attacks do 40% bonus damage. If the target has more than 1900 maximum Health, the bonus increases to 70%.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 36,
+    "name": "Brink of Dawn",
+    "description": "When the holder first drops below 60% Health, they briefly enter stealth, becoming untargetable and shedding negative effects. After coming out of stealth, the holder gains 40% bonus Attack Speed. Triggers again at 30% Health.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 37,
+    "name": "Guinsoo's Reckoning",
+    "description": "Attacks grant +10% bonus Attack Speed.This effect stacks. Radiant Bonus: +15% Attack Speed.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 38,
+    "name": "Fist of Fairness",
+    "description": "At the beginning of each planning phase, the holder gains both of the following: +40 Attack Damage and +40 Ability Power. Attacks and Abilities heal for 40% of damage dealt.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 39,
+    "name": "Hextech Lifeblade",
+    "description": "The holder's damage heal them for 35% of the damage dealt. The holder also heals their lowest health ally for the same amount. Radiant Bonus: +30 Ability Power.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 44,
+    "name": "Zenith Edge",
+    "description": "Unique Grants 75% Critical Strike Chance (including components) and 10% Critical Strike Damage. Each point of Critical Strike Chance above 100% becomes +1% Critical Strike Damage. Radiant Bonus: +50% Critical Strike Damage.",
+    "isUnique": true,
+    "isShadow": false
+  },
+  {
+    "id": 45,
+    "name": "Covalent Spark",
+    "description": "Enemies within 3 hexes have their Magic Resist reduced by 50%. When they cast an Ability, they are zapped, taking magic damage equal to 250% of their max Mana. Radiant Bonus: Regenerate 1% max Health per second.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 46,
+    "name": "Glamorous Gauntlet",
+    "description": "The holder's magic and true damage from their Ability can critically strike. The holder gains 40% bonus Critical Strike Damage and 50 Ability Power.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 47,
+    "name": "Eternal Whisper",
+    "description": "When the holder deals physical damage, the target's Armor is reduced by 50% for the rest of combat. This effect does not stack. Radiant Bonus: +35% Critical Strike Chance.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 48,
+    "name": "Locket of Targon Prime",
+    "description": "When combat begins, the holder and all allies within 3 hexes in the same row gain a shield that blocks 400/500/600★ damage for 60 seconds. Radiant Bonus: Grants 200 Health for all allies at the start of combat.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 49,
+    "name": "More More-ellonomicon",
+    "description": "Grants 70 bonus Ability Power (including components). When the holder deals magic or true damage with their Ability, they burn the target, dealing 60% of the target's maximum Health as true damage over 30 seconds. and reducing healing by 50% for the duration of the burn.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 55,
+    "name": "Quickestsilver",
+    "description": "The holder gains immunity to crowd control in combat for 30 seconds. Radiant Bonus: +60% Attack Speed.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 56,
+    "name": "Rabadon's Ascended Deathcap",
+    "description": "Grants 125 bonus Ability Power (including components).",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 57,
+    "name": "Rapid Lightcannon",
+    "description": "Increases the holder's Attack Range by 2 hexes and grants 75% bonus Attack Speed (including components). The wearer's attacks can no longer miss.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 58,
+    "name": "Absolution",
+    "description": "Every 5 seconds, the holder radiates an aura to allies within 2 hexes, healing them for 22% of their missing Health. Affected allies take 25% reduced damage from multi-target abilities and attacks for 5 seconds. Radiant Bonus: +150 Health.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 59,
+    "name": "Runaan's Tempest",
+    "description": "Grant 20% Attack Damage. Attacks fire a bolt at another nearby enemy, dealing 110% Attack Damage as physical damage. Also, gain 30% Attack Speed.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 66,
+    "name": "Shroud of Reverance",
+    "description": "When combat begins, the holder shoots a beam straight ahead that delays affected enemies' first spellcast, increasing their max Mana by 50% until they cast. Radiant Bonus: +15 Mana for all allies at the start of combat.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 67,
+    "name": "Spear of Hirana",
+    "description": "The holder's attacks restore 10 additional Mana. Radiant Passive: +45 Ability Power.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 68,
+    "name": "Statikk Favor",
+    "description": "Every third attack from the holder unleashes a chain lightning that bounces to 8 enemies, dealing 100 magic damage and reducing their Magic Resist by 50% for 5 seconds.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 69,
+    "name": "Sunlight Cape",
+    "description": "Grants 200 bonus Health (including components). Every 1.5 seconds, a random enemy within 3 hexes is burned for 60% of their maximum Health as true damage over 30 seconds. Any healing they receive is reduced by 50%.",
+    "isUnique": true,
+    "isShadow": false
+  },
+  {
+    "id": 77,
+    "name": "Rascal's Gloves",
+    "description": "Each round: Equip 2 random Radiant items.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 78,
+    "name": "Titan's Vow",
+    "description": "When the holder takes damage or inflicts a critical strike, they gain 3 Attack Damage and Ability Power. This stacks up to 25 times, at which point the holder gains 50 Armor and Magic Resist.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 79,
+    "name": "Warmog's Pride",
+    "description": "Grants 1300 bonus Health (including components). Radiant Bonus: Regenerate 1% max Health per second.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 88,
+    "name": "Zeke's Harmony",
+    "description": "When combat begins, the holder and all allies within 10% hexes in the same row gain 50% Attack Speed and 10% Lifesteal for the rest of combat.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 89,
+    "name": "Mistral",
+    "description": "When combat begins, the wearer summons a whirlwind on the opposite side of the arena that removes the closest enemy from combat for 8 seconds. Ignores CC immunity. Radiant Bonus: +10% Attack Speed for all allies at the start of combat.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 99,
+    "name": "Zz'Rots Invitation",
+    "description": "At the start of combat, the holder taunts enemies within 4 hexes. When the holder dies, a Radiant Voidmother with bonus stats arises taunting nearby enemies. Radiant Voidspawns that arise from summoned units are 25% effective.",
+    "isUnique": false,
+    "isShadow": false
+  },
+  {
+    "id": 100,
+    "name": "A.D.M.I.N. Crest",
+    "description": "The holder gains the A.D.M.I.N. Trait.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 101,
+    "name": "Ace Emblem",
+    "description": "The holder gains the Ace trait.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 102,
+    "name": "Aegis Emblem",
+    "description": "The holder gains the Aegis trait.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 103,
+    "name": "Anima Squad Emblem",
+    "description": "The holder gains the Anima Squad trait.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 104,
+    "name": "Brawler Emblem",
+    "description": "The holder gains the Brawler trait.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 105,
+    "name": "Spellslinger Emblem",
+    "description": "The holder gains the Spellslinger trait.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 106,
+    "name": "Civilian Emblem",
+    "description": "The holder gains the Civilian trait.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 107,
+    "name": "Sureshot Emblem",
+    "description": "The holder gains the Sureshot trait.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 108,
+    "name": "Defender Emblem",
+    "description": "The holder gains the Defender trait.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 109,
+    "name": "Duelist Emblem",
+    "description": "The holder gains the Duelist trait.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 110,
+    "name": "Mecha: PRIME Emblem",
+    "description": "The holder gains the Mecha: PRIME trait.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 111,
+    "name": "Gadgeteen Emblem",
+    "description": "The holder gains the Gadgeteen trait.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 112,
+    "name": "Hacker Emblem",
+    "description": "The holder gains the Hacker trait.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 113,
+    "name": "Heart Emblem",
+    "description": "The holder gains the Heart trait.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 114,
+    "name": "LaserCorps Emblem",
+    "description": "The holder gains the LaserCorps trait.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 115,
+    "name": "Mascot Emblem",
+    "description": "The holder gains the Mascot trait.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 116,
+    "name": "Ox Force Emblem",
+    "description": "The holder gains the Ox Force trait.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 117,
+    "name": "Prankster Emblem",
+    "description": "The holder gains the Prankster trait.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 118,
+    "name": "Recon Emblem",
+    "description": "The holder gains the Recon trait.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 119,
+    "name": "Renegade Emblem",
+    "description": "The holder gains the Renegade trait.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 120,
+    "name": "Star Guardian Emblem",
+    "description": "The holder gains the Star Guardian trait.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 121,
+    "name": "The Underground Emblem",
+    "description": "The holder gains the Underground trait.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 122,
+    "name": "Archangel's Staff",
+    "description": "Grants 10 bonus Ability Power. Combat start: Grant 20 Ability Power every 5 seconds.",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 123,
+    "name": "Bloodthirster",
+    "description": "Grant 20% Omnivamp. Once per combat: At 40% Health, gain a 25% maximum Health shield that lasts up to 5 seconds. Omnivamp: heal for a percentage of damage dealt",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 124,
+    "name": "Bramble Vest",
+    "description": "Grants 30 bonus Armor. Negates 75% bonus damage from incoming critical strikes. When struck by an attack, deal 75/100/150 ★ magic damage to all nearby enemies (once every 2.5 seconds).",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 125,
+    "name": "Chalice of Power",
+    "description": "Combat start: Grant 25 Ability Power to the holder and allies within 1 hex in the same row.",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 126,
+    "name": "Deathblade",
+    "description": "Grant 40% bonus Attack Damage.",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 127,
+    "name": "Dragon's Claw",
+    "description": "Grants 30 bonus Magic Resist. Every 2 seconds, regenerate 4% maximum Health.",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 128,
+    "name": "Tactician's Crown",
+    "description": "Your team gains +1 maximum team size.",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 129,
+    "name": "Protector's Vow",
+    "description": "Grant 15 bonus starting Mana. Once per combat: At 40% Health, gain a 25% maximum Health shield that lasts up to 5 seconds and 35 Armor and Magic Resist for the rest of combat.",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 130,
+    "name": "Gargoyle Stoneplate",
+    "description": "Grant 15 Armor and 15 Magic Resist for each enemy targeting the holder.",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 131,
+    "name": "Edge of Night",
+    "description": "The holder gains the Dragonslayer trait.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 132,
+    "name": "Guinsoo's Rageblade",
+    "description": "Attacks grant 5% bonus Attack Speed. This effect stacks. ",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 133,
+    "name": "Hextech Gunblade",
+    "description": "Grant 20% Omnivamp. Damage heals the lowest percent Health ally for the same amount. Omnivamp: heal for a percentage of damage dealt.",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 134,
+    "name": "Infinity Edge",
+    "description": "Grant 15% bouns Attack Damage and 15% bouns Critical Strike Chance. Damage from an Ability can critically strike.",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 135,
+    "name": "Ionic Spark",
+    "description": "Enemies within 2 hexes have their Magic Resist reduced by 50%. When they cast an Ability, they are zapped for magic damage equal to 185% of their maximum Mana.",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 136,
+    "name": "Jeweled Gauntlet",
+    "description": "Grant 15 bonus Ability Power and 15% Critical Strike Chance. Damage from an Ability can critically strike.",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 137,
+    "name": "Last Whisper",
+    "description": "Grant 10% bonus Attack Damage. Any physical damage dealt Sunder the target for 5 seconds. This effect does not stack.",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 138,
+    "name": "Locket of the Iron Solari",
+    "description": "Combat start: Shield the holder and allies within 2 hexes in the same row for 300/350/400★ damage for 15 seconds.",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 139,
+    "name": "Giant Slayer",
+    "description": "Grant 20% bonus Attack Damage and 20 bonus Ability Power. Abilities and attacks deal 30% more damage to enemies with more than 1800 maximum Health. ",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 140,
+    "name": "Morellonomicon",
+    "description": "Grants 10 bonus Ability Power. Magic or true damage from an Ability 10% Burns and 33% Wounds enemies for the 10 seconds.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 141,
+    "name": "Guardbreaker",
+    "description": "Grant 20% bonus Attack Damage and 20 bonus Ability Power. After damaging a shielded enemy, Abilities and attacks deal 30% more damage for 3 seconds.",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 142,
+    "name": "Quicksilver",
+    "description": "Grant 30% bonus Attack Speed. Combat start: Grant immunity to crowd control for 15 seconds.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 143,
+    "name": "Rabadon's Deathcap",
+    "description": "Grants 50 bonus Ability Power.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 144,
+    "name": "Rapid Firecannon",
+    "description": "Grant 30% bonus Attack Speed and 1 bonus Attack Range. Attacks cannot miss.",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 145,
+    "name": "Sunfire Cape",
+    "description": "Grants 150 bonus Health. Every 2 seconds, an enemy within 2 hexes is burned for 10% of their maximum Health as true damage over 10 seconds, and reducing healing by 30% for the duration.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 146,
+    "name": "Redemption",
+    "description": "Heal allies within 1 hex for 18% of their missing Health every 5 seconds. They also take 25% less multi-target damage for 5 seconds (damage reduction does not stack).",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 147,
+    "name": "Runaan's Hurricane",
+    "description": "Grant 20% bonus Attack Damage. Attacks fire a bolt at a nearby enemy, dealing 50% Attack Damage as physical damage.",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 148,
+    "name": "Blue Buff",
+    "description": "Grant 10 bonus starting Mana and 15 bouns Ability Power. Abilities cost 10 less Mana to cast. If the holder gets at least 1 takedown within 3 seconds of casting, gain 10.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 149,
+    "name": "Shroud of Stillness",
+    "description": "Grant 250 bouns Health. Combat start: Shoots a beam that increases the maximum Mana of affected enemies by 35% until they cast.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 150,
+    "name": "Spear of Shojin",
+    "description": "Grant 15 bonus Ability Power. Every 3rd attacks restore 20 additional Mana.",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 151,
+    "name": "Statikk Shiv",
+    "description": "Grant 15 bonus Ability Power. Every 3rd attack unleashes chain lightning that bounces to 4 enemies, dealing 30 magic damage and Shredding them for 5 seconds.",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 152,
+    "name": "Thief's Gloves",
+    "description": "Each round: Equip 2 random items.",
+    "isUnique": true,
+    "isShadow": true
+  },
+  {
+    "id": 153,
+    "name": "Zz'Rot Portal",
+    "description": "Combat start: Taunt. On death, a Voidspawn arises, Taunting nearby enemies. Taunt: enemies that are able and in range must attack the taunter.",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 154,
+    "name": "Titan’s Resolve",
+    "description": "Grant 2% Attack Damage and 2 Ability Power when attacking or taking damage, stacking up to 25 times. At full stacks, grant 25 Armor and Magic Resist.",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 155,
+    "name": "Hand of Justice",
+    "description": "Grant 2 effects: - +15 Attack Damage and +15 Ability Power. - 10% Omnivamp. Each round, randomly double 1 of these effects. Omnivamp: heal for a percentage of damage dealt ",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 156,
+    "name": "Warmog's Armor",
+    "description": "Grant 700 bonus Health.",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 157,
+    "name": "Zeke's Herald",
+    "description": "Combat start: Grant 20% Attack Speed to the holder and allies within 1 hex in the same row.",
+    "isUnique": false,
+    "isShadow": true
+  },
+  {
+    "id": 158,
+    "name": "Zephyr",
+    "description": "Grant 15% bouns Attack Speed.Combat start: Summon a whirlwind on the opposite side of the arena that removes the closest enemy from combat for 5 seconds.",
+    "isUnique": true,
+    "isShadow": true
+  }
+]

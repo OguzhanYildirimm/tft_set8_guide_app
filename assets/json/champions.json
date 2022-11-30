@@ -1,0 +1,535 @@
+[
+  {
+    "name": "Blitzcrank",
+    "championId": "TFT8_Blitzcrank",
+    "cost": 1,
+    "traits": [
+      "Set8_Admin",
+      "Set8_Brawler"
+    ]
+  },
+  {
+    "name": "Camille",
+    "championId": "TFT8_Camille",
+    "cost": 2,
+    "traits": [
+      "Set8_Admin",
+      "Set8_Renegade"
+    ]
+  },
+  {
+    "name": "LeBlanc",
+    "championId": "TFT8_LeBlanc",
+    "cost": 3,
+    "traits": [
+      "Set8_Admin",
+      "Set8_Hacker",
+      "Set8_Spellslinger"
+    ]
+  },
+  {
+    "name": "Soraka",
+    "championId": "TFT8_Soraka",
+    "cost": 4,
+    "traits": [
+      "Set8_Admin",
+      "Set8_Heart"
+    ]
+  },
+  {
+    "name": "Nasus",
+    "championId": "TFT8_Nasus",
+    "cost": 1,
+    "traits": [
+      "Set8_AnimaSquad",
+      "Set8_Mascot "
+    ]
+  },
+  {
+    "name": "Sylas",
+    "championId": "TFT8_Sylas",
+    "cost": 1,
+    "traits": [
+      "Set8_AnimaSquad",
+      "Set8_Renegade"
+    ]
+  },
+  {
+    "name": "Jinx",
+    "championId": "TFT8_Jinx",
+    "cost": 2,
+    "traits": [
+      "Set8_AnimaSquad",
+      "Set8_Prankster"
+    ]
+  },
+  {
+    "name": "Riven",
+    "championId": "TFT8_Riven",
+    "cost": 3,
+    "traits": [
+      "Set8_AnimaSquad",
+      "Set8_Brawler",
+      "Set8_Defender"
+    ]
+  },
+  {
+    "name": "Vayne",
+    "championId": "TFT8_Vayne",
+    "cost": 3,
+    "traits": [
+      "Set8_AnimaSquad",
+      "Set8_Duelist",
+      "Set8_Recon"
+    ]
+  },
+  {
+    "name": "MissFortune",
+    "championId": "TFT8_MissFortune",
+    "cost": 4,
+    "traits": [
+      "Set8_AnimaSquad",
+      "Set8_Ace"
+    ]
+  },
+  {
+    "name": "Aphelios",
+    "championId": "TFT8_Aphelios",
+    "cost": 5,
+    "traits": [
+      "Set8_Arsenal",
+      "Set8_OxForce",
+      "Set8_Sureshot"
+    ]
+  },
+  {
+    "name": "Galio",
+    "championId": "TFT8_Ivern",
+    "cost": 1,
+    "traits": [
+      "Set8_Civilian",
+      "Set8_Mascot",
+      "Set8_Renewer"
+    ]
+  },
+  {
+    "name": "Sivir",
+    "championId": "TFT8_Jax",
+    "cost": 2,
+    "traits": [
+      "Set8_Civilian",
+      "Set8_Sureshot"
+    ]
+  },
+  {
+    "name": "Janna",
+    "championId": "TFT8_Kalista",
+    "cost": 5,
+    "traits": [
+      "Set8_Civilian",
+      "Set8_Forecaster",
+      "Set8_Spellslinger"
+      
+    ]
+  },
+  {
+    "name": "Lulu",
+    "championId": "TFT8_Lulu",
+    "cost": 1,
+    "traits": [
+      "Set8_Gadgeteen",
+      "Set8_Heart"
+    ]
+  },
+  {
+    "name": "Poppy",
+    "championId": "TFT8_Poppy",
+    "cost": 1,
+    "traits": [
+      "Set8_Gadgeteen",
+      "Set8_Defender"
+    ]
+  },
+  {
+    "name": "Annie",
+    "championId": "TFT8_Annie",
+    "cost": 2,
+    "traits": [
+      "Set8_Gadgeteen",
+      "Set8_OxForce",
+      "Set8_Spellslinger"
+    ]
+  },
+  {
+    "name": "Zoe",
+    "championId": "TFT8_Zoe",
+    "cost": 3,
+    "traits": [
+      "Set8_Gadgeteen",
+      "Set8_Hacker",
+      "Set8_Prankster"
+    ]
+  },
+  {
+    "name": "Nunu",
+    "championId": "TFT8_Nunu",
+    "cost": 5,
+    "traits": [
+      "Set8_Gadgeteen",
+      "Set8_Mascot"
+    ]
+  },
+  {
+    "name": "Ashe",
+    "championId": "TFT8_Ashe",
+    "cost": 1,
+    "traits": [
+      "Set8_LaserCorps",
+      "Set8_Recon"
+    ]
+  },
+  {
+    "name": "Renekton",
+    "championId": "TFT8_Renekton",
+    "cost": 1,
+    "traits": [
+      "Set8_LaserCorps",
+      "Set8_Brawler"
+    ]
+  },
+  {
+    "name": "Yasuo",
+    "championId": "TFT8_Yasuo",
+    "cost": 2,
+    "traits": [
+      "Set8_LaserCorps",
+      "Set8_Duelist"
+    ]
+  },
+  {
+    "name": "Senna",
+    "championId": "TFT8_Senna",
+    "cost": 3,
+    "traits": [
+      "Set8_LaserCorps",
+      "Set8_Sureshot"
+    ]
+  },
+  {
+    "name": "Sejuani",
+    "championId": "TFT8_Sejuani",
+    "cost": 4,
+    "traits": [
+      "Set8_LaserCorps",
+      "Set8_Brawler"
+    ]
+  },
+  {
+    "name": "Zed",
+    "championId": "TFT8_Zed",
+    "cost": 4,
+    "traits": [
+      "Set8_LaserCorps",
+      "Set8_Duelist",
+      "Set8_Hacker"
+
+    ]
+  },
+  {
+    "name": "Mordekaiser",
+    "championId": "TFT8_Mordekaiser",
+    "cost": 5,
+    "traits": [
+      "Set8_LaserCorps",
+      "Set8_Ace"
+    ]
+  },
+  {
+    "name": "Wukong",
+    "championId": "TFT8_Wukong",
+    "cost": 1,
+    "traits": [
+      "Set8_MechaPrime",
+      "Set8_Defender"
+    ]
+  },
+  {
+    "name": "Draven",
+    "championId": "TFT8_Draven",
+    "cost": 2,
+    "traits": [
+      "Set8_MechaPrime",
+      "Set8_Ace"
+    ]
+  },
+  {
+    "name": "Jax",
+    "championId": "TFT8_Jax",
+    "cost": 3,
+    "traits": [
+      "Set8_MechaPrime",
+      "Set8_Brawler"
+    ]
+  },
+  {
+    "name": "Sett",
+    "championId": "TFT8_Sett",
+    "cost": 4,
+    "traits": [
+      "Set8_MechaPrime",
+      "Set8_Defender"
+    ]
+  },
+  {
+    "name": "Leona",
+    "championId": "TFT8_Leona",
+    "cost": 5,
+    "traits": [
+      "Set8_MechaPrime",
+      "Set8_Aegis",
+      "Set8_Renegade"
+    ]
+  },
+  {
+    "name": "Talon",
+    "championId": "TFT8_Talon",
+    "cost": 1,
+    "traits": [
+      "Set8_OxForce",
+      "Set8_Renegade"
+    ]
+  },
+  {
+    "name": "Fiora",
+    "championId": "TFT8_Fiora",
+    "cost": 2,
+    "traits": [
+      "Set8_OxForce",
+      "Set8_Duelist"
+    ]
+  },
+  {
+    "name": "Alistar",
+    "championId": "TFT8_Pantheon",
+    "cost": 3,
+    "traits": [
+      "Set8_OxForce",
+      "Set8_Aegis",
+      "Set8_Mascot"
+    ]
+  },
+  {
+    "name": "Viego",
+    "championId": "TFT8_Viego",
+    "cost": 4,
+    "traits": [
+      "Set8_OxForce",
+      "Set8_Renegade"
+    ]
+  },
+  {
+    "name": "Lux",
+    "championId": "TFT8_Lux",
+    "cost": 1,
+    "traits": [
+      "Set8_StarGuardian",
+      "Set8_Spellslinger"
+    ]
+  },
+  {
+    "name": "Rell",
+    "championId": "TFT8_Rell",
+    "cost": 2,
+    "traits": [
+      "Set8_StarGuardian",
+      "Set8_Defender"
+    ]
+  },
+  {
+    "name": "Yuumi",
+    "championId": "TFT8_Ryze",
+    "cost": 2,
+    "traits": [
+      "Set8_StarGuardian",
+      "Set8_Heart",
+      "Set8_Mascot"
+    ]
+  },
+  {
+    "name": "Kai'Sa",
+    "championId": "TFT8_KaiSa",
+    "cost": 3,
+    "traits": [
+      "Set8_StarGuardian",
+      "Set8_Recon"
+    ]
+  },
+  {
+    "name": "Nilah",
+    "championId": "TFT8_Nilah",
+    "cost": 3,
+    "traits": [
+      "Set8_StarGuardian",
+      "Set8_Duelist"
+    ]
+  },
+  {
+    "name": "Ekko",
+    "championId": "TFT8_Ekko",
+    "cost": 4,
+    "traits": [
+      "Set8_StarGuardian",
+      "Set8_Aegis",
+      "Set8_Prankster"
+    ]
+  },
+  {
+    "name": "Taliyah",
+    "championId": "TFT8_Taliyah",
+    "cost": 4,
+    "traits": [
+      "Set8_StarGuardian",
+      "Set8_Spellslinger"
+    ]
+  },
+  {
+    "name": "Syndra",
+    "championId": "TFT8_Syndra",
+    "cost": 5,
+    "traits": [
+      "Set8_StarGuardian",
+      "Set8_Heart"
+    ]
+  },
+  {
+    "name": "Gangplank",
+    "championId": "TFT8_Gangplank",
+    "cost": 1,
+    "traits": [
+      "Set8_Supers",
+      "Set8_Duelist"
+    ]
+  },
+  {
+    "name": "Lee Sin",
+    "championId": "TFT8_Thresh",
+    "cost": 2,
+    "traits": [
+      "Set8_Supers",
+      "Set8_Brawler",
+      "Set8_Heart"
+
+    ]
+  },
+  {
+    "name": "Malphite",
+    "championId": "TFT8_Malphite",
+    "cost": 2,
+    "traits": [
+      "Set8_Supers",
+      "Set8_Mascot"
+    ]
+  },
+  {
+    "name": "Cho'Gath",
+    "championId": "TFT8_Udyr",
+    "cost": 3,
+    "traits": [
+      "Set8_Threat"
+    ]
+  },
+  {
+    "name": "Rammus",
+    "championId": "TFT8_Varus",
+    "cost": 3,
+    "traits": [
+      "Set8_Threat"
+    ]
+  },
+  {
+    "name": "Vel'Koz",
+    "championId": "TFT8_Velkoz",
+    "cost": 3,
+    "traits": [
+      "Set8_Threat"
+    ]
+  },
+  {
+    "name": "Aurelion Sol",
+    "championId": "TFT8_AurelionSol",
+    "cost": 4,
+    "traits": [
+      "Set8_Threat"
+    ]
+  },
+  {
+    "name": "Bel'Veth",
+    "championId": "TFT8_BelVeth",
+    "cost": 4,
+    "traits": [
+      "Set8_Threat"
+    ]
+  },
+  {
+    "name": "Zac",
+    "championId": "TFT8_Zac",
+    "cost": 4,
+    "traits": [
+      "Set8_Threat"
+    ]
+  },
+  {
+    "name": "Fiddlesticks",
+    "championId": "TFT8_Fiddlesticks",
+    "cost": 5,
+    "traits": [
+      "Set8_Threat"
+    ]
+  },
+  {
+    "name": "Urgot",
+    "championId": "TFT8_Urgot",
+    "cost": 8,
+    "traits": [
+      "Set8_Threat"
+    ]
+  },
+  {
+    "name": "Kayle",
+    "championId": "TFT8_Kayle",
+    "cost": 1,
+    "traits": [
+      "Set8_Underground",
+      "Set8_Duelist"
+    ]
+  },
+  {
+    "name": "Ezreal",
+    "championId": "TFT8_Ezreal",
+    "cost": 2,
+    "traits": [
+      "Set8_Underground",
+      "Set8_Recon"
+    ]
+  },
+  {
+    "name": "Vi",
+    "championId": "TFT8_Vi",
+    "cost": 2,
+    "traits": [
+      "Set8_Underground",
+      "Set8_Aegis",
+      "Set8_Brawler"
+    ]
+  },
+  {
+    "name": "Sona",
+    "championId": "TFT8_Sona",
+    "cost": 3,
+    "traits": [
+      "Set8_Underground",
+      "Set8_Spellslinger",
+      "Set8_Heart"
+    ]
+  }
+]
