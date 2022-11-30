@@ -4,8 +4,8 @@
     "championId": "TFT8_Blitzcrank",
     "cost": 1,
     "traits": [
-      "Set8_Admin",
-      "Set8_Brawler"
+      "A.D.M.I.N",
+      "Brawler"
     ]
   },
   {
@@ -13,8 +13,8 @@
     "championId": "TFT8_Camille",
     "cost": 2,
     "traits": [
-      "Set8_Admin",
-      "Set8_Renegade"
+      "A.D.M.I.N",
+      "Renegade"
     ]
   },
   {
@@ -22,9 +22,9 @@
     "championId": "TFT8_LeBlanc",
     "cost": 3,
     "traits": [
-      "Set8_Admin",
-      "Set8_Hacker",
-      "Set8_Spellslinger"
+      "A.D.M.I.N",
+      "Hacker",
+      "Spellslinger"
     ]
   },
   {
@@ -32,8 +32,8 @@
     "championId": "TFT8_Soraka",
     "cost": 4,
     "traits": [
-      "Set8_Admin",
-      "Set8_Heart"
+      "A.D.M.I.N",
+      "Heart"
     ]
   },
   {
@@ -41,8 +41,8 @@
     "championId": "TFT8_Nasus",
     "cost": 1,
     "traits": [
-      "Set8_AnimaSquad",
-      "Set8_Mascot "
+      "Anima Squad",
+      "Mascot"
     ]
   },
   {
@@ -50,8 +50,8 @@
     "championId": "TFT8_Sylas",
     "cost": 1,
     "traits": [
-      "Set8_AnimaSquad",
-      "Set8_Renegade"
+      "Anima Squad",
+      "Renegade"
     ]
   },
   {
@@ -59,8 +59,8 @@
     "championId": "TFT8_Jinx",
     "cost": 2,
     "traits": [
-      "Set8_AnimaSquad",
-      "Set8_Prankster"
+      "Anima Squad",
+      "Prankster"
     ]
   },
   {
@@ -68,9 +68,9 @@
     "championId": "TFT8_Riven",
     "cost": 3,
     "traits": [
-      "Set8_AnimaSquad",
-      "Set8_Brawler",
-      "Set8_Defender"
+      "Anima Squad",
+      "Brawler",
+      "Defender"
     ]
   },
   {
@@ -78,18 +78,18 @@
     "championId": "TFT8_Vayne",
     "cost": 3,
     "traits": [
-      "Set8_AnimaSquad",
-      "Set8_Duelist",
-      "Set8_Recon"
+      "Anima Squad",
+      "Duelist",
+      "Recon"
     ]
   },
   {
-    "name": "MissFortune",
+    "name": "Miss Fortune",
     "championId": "TFT8_MissFortune",
     "cost": 4,
     "traits": [
-      "Set8_AnimaSquad",
-      "Set8_Ace"
+      "Anima Squad",
+      "Ace"
     ]
   },
   {
@@ -97,9 +97,9 @@
     "championId": "TFT8_Aphelios",
     "cost": 5,
     "traits": [
-      "Set8_Arsenal",
-      "Set8_OxForce",
-      "Set8_Sureshot"
+      "Arsenal",
+      "Ox Force",
+      "Sureshot"
     ]
   },
   {
@@ -107,9 +107,8 @@
     "championId": "TFT8_Ivern",
     "cost": 1,
     "traits": [
-      "Set8_Civilian",
-      "Set8_Mascot",
-      "Set8_Renewer"
+      "Civilian",
+      "Mascot"
     ]
   },
   {
@@ -117,8 +116,8 @@
     "championId": "TFT8_Jax",
     "cost": 2,
     "traits": [
-      "Set8_Civilian",
-      "Set8_Sureshot"
+      "Civilian",
+      "Sureshot"
     ]
   },
   {
@@ -126,9 +125,9 @@
     "championId": "TFT8_Kalista",
     "cost": 5,
     "traits": [
-      "Set8_Civilian",
-      "Set8_Forecaster",
-      "Set8_Spellslinger"
+      "Civilian",
+      "Forecaster",
+      "Spellslinger"
       
     ]
   },
@@ -137,8 +136,8 @@
     "championId": "TFT8_Lulu",
     "cost": 1,
     "traits": [
-      "Set8_Gadgeteen",
-      "Set8_Heart"
+      "Gadgeteen",
+      "Heart"
     ]
   },
   {
@@ -146,8 +145,8 @@
     "championId": "TFT8_Poppy",
     "cost": 1,
     "traits": [
-      "Set8_Gadgeteen",
-      "Set8_Defender"
+      "Gadgeteen",
+      "Defender"
     ]
   },
   {
@@ -155,9 +154,9 @@
     "championId": "TFT8_Annie",
     "cost": 2,
     "traits": [
-      "Set8_Gadgeteen",
-      "Set8_OxForce",
-      "Set8_Spellslinger"
+      "Gadgeteen",
+      "Ox Force",
+      "Spellslinger"
     ]
   },
   {
@@ -165,9 +164,9 @@
     "championId": "TFT8_Zoe",
     "cost": 3,
     "traits": [
-      "Set8_Gadgeteen",
-      "Set8_Hacker",
-      "Set8_Prankster"
+      "Gadgeteen",
+      "Hacker",
+      "Prankster"
     ]
   },
   {
@@ -175,8 +174,8 @@
     "championId": "TFT8_Nunu",
     "cost": 5,
     "traits": [
-      "Set8_Gadgeteen",
-      "Set8_Mascot"
+      "Gadgeteen",
+      "Mascot"
     ]
   },
   {
@@ -184,8 +183,8 @@
     "championId": "TFT8_Ashe",
     "cost": 1,
     "traits": [
-      "Set8_LaserCorps",
-      "Set8_Recon"
+      "LaserCorps",
+      "Recon"
     ]
   },
   {
@@ -193,8 +192,8 @@
     "championId": "TFT8_Renekton",
     "cost": 1,
     "traits": [
-      "Set8_LaserCorps",
-      "Set8_Brawler"
+      "LaserCorps",
+      "Brawler"
     ]
   },
   {
@@ -202,8 +201,8 @@
     "championId": "TFT8_Yasuo",
     "cost": 2,
     "traits": [
-      "Set8_LaserCorps",
-      "Set8_Duelist"
+      "LaserCorps",
+      "Duelist"
     ]
   },
   {
@@ -211,8 +210,8 @@
     "championId": "TFT8_Senna",
     "cost": 3,
     "traits": [
-      "Set8_LaserCorps",
-      "Set8_Sureshot"
+      "LaserCorps",
+      "Sureshot"
     ]
   },
   {
@@ -220,8 +219,8 @@
     "championId": "TFT8_Sejuani",
     "cost": 4,
     "traits": [
-      "Set8_LaserCorps",
-      "Set8_Brawler"
+      "LaserCorps",
+      "Brawler"
     ]
   },
   {
@@ -229,9 +228,9 @@
     "championId": "TFT8_Zed",
     "cost": 4,
     "traits": [
-      "Set8_LaserCorps",
-      "Set8_Duelist",
-      "Set8_Hacker"
+      "LaserCorps",
+      "Duelist",
+      "Hacker"
 
     ]
   },
@@ -240,8 +239,8 @@
     "championId": "TFT8_Mordekaiser",
     "cost": 5,
     "traits": [
-      "Set8_LaserCorps",
-      "Set8_Ace"
+      "LaserCorps",
+      "Ace"
     ]
   },
   {
@@ -249,8 +248,8 @@
     "championId": "TFT8_Wukong",
     "cost": 1,
     "traits": [
-      "Set8_MechaPrime",
-      "Set8_Defender"
+      "Mecha: PRIME",
+      "Defender"
     ]
   },
   {
@@ -258,8 +257,8 @@
     "championId": "TFT8_Draven",
     "cost": 2,
     "traits": [
-      "Set8_MechaPrime",
-      "Set8_Ace"
+      "Mecha: PRIME",
+      "Ace"
     ]
   },
   {
@@ -267,8 +266,8 @@
     "championId": "TFT8_Jax",
     "cost": 3,
     "traits": [
-      "Set8_MechaPrime",
-      "Set8_Brawler"
+      "Mecha: PRIME",
+      "Brawler"
     ]
   },
   {
@@ -276,8 +275,8 @@
     "championId": "TFT8_Sett",
     "cost": 4,
     "traits": [
-      "Set8_MechaPrime",
-      "Set8_Defender"
+      "Mecha: PRIME",
+      "Defender"
     ]
   },
   {
@@ -285,9 +284,9 @@
     "championId": "TFT8_Leona",
     "cost": 5,
     "traits": [
-      "Set8_MechaPrime",
-      "Set8_Aegis",
-      "Set8_Renegade"
+      "Mecha: PRIME",
+      "Aegis",
+      "Renegade"
     ]
   },
   {
@@ -295,8 +294,8 @@
     "championId": "TFT8_Talon",
     "cost": 1,
     "traits": [
-      "Set8_OxForce",
-      "Set8_Renegade"
+      "Ox Force",
+      "Renegade"
     ]
   },
   {
@@ -304,8 +303,8 @@
     "championId": "TFT8_Fiora",
     "cost": 2,
     "traits": [
-      "Set8_OxForce",
-      "Set8_Duelist"
+      "Ox Force",
+      "Duelist"
     ]
   },
   {
@@ -313,9 +312,9 @@
     "championId": "TFT8_Pantheon",
     "cost": 3,
     "traits": [
-      "Set8_OxForce",
-      "Set8_Aegis",
-      "Set8_Mascot"
+      "Ox Force",
+      "Aegis",
+      "Mascot"
     ]
   },
   {
@@ -323,8 +322,8 @@
     "championId": "TFT8_Viego",
     "cost": 4,
     "traits": [
-      "Set8_OxForce",
-      "Set8_Renegade"
+      "Ox Force",
+      "Renegade"
     ]
   },
   {
@@ -332,8 +331,8 @@
     "championId": "TFT8_Lux",
     "cost": 1,
     "traits": [
-      "Set8_StarGuardian",
-      "Set8_Spellslinger"
+      "Star Guardian",
+      "Spellslinger"
     ]
   },
   {
@@ -341,8 +340,8 @@
     "championId": "TFT8_Rell",
     "cost": 2,
     "traits": [
-      "Set8_StarGuardian",
-      "Set8_Defender"
+      "Star Guardian",
+      "Defender"
     ]
   },
   {
@@ -350,9 +349,9 @@
     "championId": "TFT8_Ryze",
     "cost": 2,
     "traits": [
-      "Set8_StarGuardian",
-      "Set8_Heart",
-      "Set8_Mascot"
+      "Star Guardian",
+      "Heart",
+      "Mascot"
     ]
   },
   {
@@ -360,8 +359,8 @@
     "championId": "TFT8_KaiSa",
     "cost": 3,
     "traits": [
-      "Set8_StarGuardian",
-      "Set8_Recon"
+      "Star Guardian",
+      "Recon"
     ]
   },
   {
@@ -369,8 +368,8 @@
     "championId": "TFT8_Nilah",
     "cost": 3,
     "traits": [
-      "Set8_StarGuardian",
-      "Set8_Duelist"
+      "Star Guardian",
+      "Duelist"
     ]
   },
   {
@@ -378,9 +377,9 @@
     "championId": "TFT8_Ekko",
     "cost": 4,
     "traits": [
-      "Set8_StarGuardian",
-      "Set8_Aegis",
-      "Set8_Prankster"
+      "Star Guardian",
+      "Aegis",
+      "Prankster"
     ]
   },
   {
@@ -388,8 +387,8 @@
     "championId": "TFT8_Taliyah",
     "cost": 4,
     "traits": [
-      "Set8_StarGuardian",
-      "Set8_Spellslinger"
+      "Star Guardian",
+      "Spellslinger"
     ]
   },
   {
@@ -397,8 +396,8 @@
     "championId": "TFT8_Syndra",
     "cost": 5,
     "traits": [
-      "Set8_StarGuardian",
-      "Set8_Heart"
+      "Star Guardian",
+      "Heart"
     ]
   },
   {
@@ -406,8 +405,8 @@
     "championId": "TFT8_Gangplank",
     "cost": 1,
     "traits": [
-      "Set8_Supers",
-      "Set8_Duelist"
+      "Supers",
+      "Duelist"
     ]
   },
   {
@@ -415,9 +414,9 @@
     "championId": "TFT8_Thresh",
     "cost": 2,
     "traits": [
-      "Set8_Supers",
-      "Set8_Brawler",
-      "Set8_Heart"
+      "Supers",
+      "Brawler",
+      "Heart"
 
     ]
   },
@@ -426,8 +425,8 @@
     "championId": "TFT8_Malphite",
     "cost": 2,
     "traits": [
-      "Set8_Supers",
-      "Set8_Mascot"
+      "Supers",
+      "Mascot"
     ]
   },
   {
@@ -435,7 +434,7 @@
     "championId": "TFT8_Udyr",
     "cost": 3,
     "traits": [
-      "Set8_Threat"
+      "Threat"
     ]
   },
   {
@@ -443,7 +442,7 @@
     "championId": "TFT8_Varus",
     "cost": 3,
     "traits": [
-      "Set8_Threat"
+      "Threat"
     ]
   },
   {
@@ -451,7 +450,7 @@
     "championId": "TFT8_Velkoz",
     "cost": 3,
     "traits": [
-      "Set8_Threat"
+      "Threat"
     ]
   },
   {
@@ -459,7 +458,7 @@
     "championId": "TFT8_AurelionSol",
     "cost": 4,
     "traits": [
-      "Set8_Threat"
+      "Threat"
     ]
   },
   {
@@ -467,7 +466,7 @@
     "championId": "TFT8_BelVeth",
     "cost": 4,
     "traits": [
-      "Set8_Threat"
+      "Threat"
     ]
   },
   {
@@ -475,7 +474,7 @@
     "championId": "TFT8_Zac",
     "cost": 4,
     "traits": [
-      "Set8_Threat"
+      "Threat"
     ]
   },
   {
@@ -483,15 +482,15 @@
     "championId": "TFT8_Fiddlesticks",
     "cost": 5,
     "traits": [
-      "Set8_Threat"
+      "Threat"
     ]
   },
   {
     "name": "Urgot",
     "championId": "TFT8_Urgot",
-    "cost": 8,
+    "cost": 5,
     "traits": [
-      "Set8_Threat"
+      "Threat"
     ]
   },
   {
@@ -499,8 +498,8 @@
     "championId": "TFT8_Kayle",
     "cost": 1,
     "traits": [
-      "Set8_Underground",
-      "Set8_Duelist"
+      "Underground",
+      "Duelist"
     ]
   },
   {
@@ -508,8 +507,8 @@
     "championId": "TFT8_Ezreal",
     "cost": 2,
     "traits": [
-      "Set8_Underground",
-      "Set8_Recon"
+      "Underground",
+      "Recon"
     ]
   },
   {
@@ -517,9 +516,9 @@
     "championId": "TFT8_Vi",
     "cost": 2,
     "traits": [
-      "Set8_Underground",
-      "Set8_Aegis",
-      "Set8_Brawler"
+      "Underground",
+      "Aegis",
+      "Brawler"
     ]
   },
   {
@@ -527,9 +526,9 @@
     "championId": "TFT8_Sona",
     "cost": 3,
     "traits": [
-      "Set8_Underground",
-      "Set8_Spellslinger",
-      "Set8_Heart"
+      "Underground",
+      "Spellslinger",
+      "Heart"
     ]
   }
 ]
